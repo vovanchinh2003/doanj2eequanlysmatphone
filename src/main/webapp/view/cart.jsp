@@ -55,7 +55,7 @@
 							<p class="card-text" id="cart-total"></p>
 						</div>
 						<a class="btn btn-success"
-							href="http://localhost:8080/doanj2eequanlysmatphone/view/order.jsp">
+							href="http://localhost:8080/doanj2eequanlysmatphone/oder">
 							<span>Đặt hàng</span>
 						</a>
 					</div>
