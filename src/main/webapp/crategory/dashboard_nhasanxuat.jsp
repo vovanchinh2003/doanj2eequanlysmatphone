@@ -147,7 +147,7 @@
 						<hr>
 						<div class="settings-links">
 							<i class='bx bx-log-in icon'></i> <a
-								href="http://localhost/DOANPHPMYSQL_2023/admin/account/logout.php">Logout<i
+								href="http://localhost:8080/doanj2eequanlysmatphone/logoutServlet">Logout<i
 								class='bx bxs-chevron-right'></i></a>
 						</div>
 					</div>

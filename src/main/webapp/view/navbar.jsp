@@ -118,7 +118,7 @@
 						<div class="row">
 							<div class="logo" style="padding-bottom: 20px">
 								<a href=""><img style="width: 370px; height: 170px"
-									src="images/logo.png"></a>
+									src="https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg"></a>
 							</div>
 						</div>
 						<!----login --->
@@ -226,7 +226,8 @@
 	<div class="row">
 		<div class="col-2 logo_1">
 			<a href="http://localhost:8080/quanlysmatphonee/hOME"><img
-				src="../../../images/logo/logo.svg" width="300px"></a>
+				src="https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg"
+				width="80%"></a>
 		</div>
 		<div class="col-8">
 			<nav class="navbar">
@@ -245,7 +246,7 @@
 					</div>
 				</form>
 			</nav>
-			<h6>Chính !!</h6>
+			<h6>Chào mừng đến với cửa hàng điện thoại !</h6>
 		</div>
 		<div class="col-2 buy">
 			<a href="http://localhost:8080/doanj2eequanlysmatphone/cart"

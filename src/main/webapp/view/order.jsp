@@ -90,7 +90,7 @@
 							<div class="cart">
 								<h5 class="card-title">Tổng cộng</h5>
 								<p class="card-text" id="cart-total" name="cart_total"></p>
-								<input class="card-text" type="text" id="cart-total-input"
+								<input class="card-text" type="hidden" id="cart-total-input"
 									name="cart_total_input" readonly> <span
 									id="cart-total-text"></span>
 							</div>
@@ -175,6 +175,7 @@ td {
 	width: 100%;
 }
 </style>
+		<jsp:include page="/view/footer.jsp"></jsp:include>
 
 	<script
 		src="http://localhost:8080/doanj2eequanlysmatphone/assetss/js/cart.js"></script>

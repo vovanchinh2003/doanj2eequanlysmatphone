@@ -32,7 +32,7 @@
 		<div class="text">
 			<%@ page errorPage="/list/list_sanpham.jsp"%>
 
-			<h1>Thông tin nhà sản xuất</h1>
+			<h1>Thông tin sản phẩm</h1>
 			</br>
 			<button class="btn btn-primary" data-bs-toggle="modal"
 				data-bs-target="#addModal">Thêm mới</button>

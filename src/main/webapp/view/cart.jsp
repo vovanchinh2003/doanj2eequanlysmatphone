@@ -141,6 +141,8 @@ td:last-child {
 	font-weight: bold;
 }
 </style>
+		<jsp:include page="/view/footer.jsp"></jsp:include>
+
 
 	<script
 		src="http://localhost:8080/doanj2eequanlysmatphone/assetss/js/cart.js"></script>

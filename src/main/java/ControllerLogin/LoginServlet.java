@@ -85,7 +85,7 @@ public class LoginServlet extends HttpServlet {
 					session.setAttribute("anh", anh);
 					request.setAttribute("userRole", "Quản Lý");
 					// Redirect to the NhaSanXuatController servlet
-					response.sendRedirect(request.getContextPath() + "/hOME");
+					response.sendRedirect(request.getContextPath() + "/sanphamCoontroller");
 					return;
 				}
 			} else if (custRs.next()) {

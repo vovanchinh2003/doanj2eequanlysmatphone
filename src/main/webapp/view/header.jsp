@@ -237,8 +237,7 @@ header {
 				</c:forEach>
 			</div>
 		</div>
-		< /center>
-
+		<jsp:include page="/view/footer.jsp"></jsp:include>
 		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 		<script
 			src="http://localhost:8080/doanj2eequanlysmatphone/assetss/js/cart.js"></script>

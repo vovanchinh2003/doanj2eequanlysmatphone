@@ -34,27 +34,27 @@
 						class="title">Dashboard</span>
 				</a></li>
 				<li><a
-					href="http://localhost/DOANPHPMYSQL_2023/admin/view/category/dashboard_nhasanxuat.php">
+					href="http://localhost:8080/doanj2eequanlysmatphone/NhaSanXuatController">
 						<span class="icon"><i class='bx bxl-product-hunt'></i></span> <span
 						class="title">Nhà sản xuất</span>
 				</a></li>
 				<li><a
-					href="http://localhost/DOANPHPMYSQL_2023/admin/view/category/dashboard_sanpham.php">
+					href="http://localhost:8080/doanj2eequanlysmatphone/sanphamCoontroller">
 						<span class="icon"><i class='bx bxl-product-hunt'></i></span> <span
 						class="title">Sản phẩm</span>
 				</a></li>
 				<li><a
-					href="http://localhost/DOANPHPMYSQL_2023/admin/view/category/dashboard_khachhang.php">
+					href="http://localhost:8080/doanj2eequanlysmatphone/khachHangController">
 						<span class="icon"><i class='bx bxs-user-account'></i></span> <span
 						class="title">Khách hàng</span>
 				</a></li>
 				<li><a
-					href="http://localhost/DOANPHPMYSQL_2023/admin/view/category/dashboard_nhanvien.php">
+					href="http://localhost:8080/doanj2eequanlysmatphone/nhanVienController">
 						<span class="icon"><i class='bx bx-food-menu'></i></span> <span
 						class="title">Nhân viên</span>
 				</a></li>
 				<li><a
-					href="http://localhost/DOANPHPMYSQL_2023/admin/view/category/dashboard_donhang.php">
+					href="http://localhost:8080/doanj2eequanlysmatphone/donHangController">
 						<span class="icon"><i class='bx bx-captions'></i></span> <span
 						class="title">Đơn hàng</span>
 				</a></li>
